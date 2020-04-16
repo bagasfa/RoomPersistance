@@ -1,0 +1,2 @@
+rootProject.name='Room Persistance'
+include ':app'
